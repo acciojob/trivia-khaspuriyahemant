@@ -1,10 +1,10 @@
 
 /* Your CSS Code here. */
-p.deal{
+.deal{
 	Max-width:600px;
 	Margin:10px;
 	Padding:5px;
-	Border-left: 8px solid green color;
-	Background-color:#f8fffe;
-    Font-weight: Bold;
+	Border-left:8px solid green;
+	Background-color: #f8fffe;
+    Font-weight:Bold;
 }
